@@ -118,7 +118,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 * News channel: <a  href="https://t.me/W2H_Userbot" alt="W2HMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-W2HMusic%20Updates-9cf" /> </a>
 
 ## Support
-- [Channel](https://t.me/W2HGalaxy-Op)
+- [Channel](https://t.me/W2H_userbot)
 - [Group](https://t.me/W2HSupport)
 
 ## Credits
