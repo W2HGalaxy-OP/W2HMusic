@@ -419,7 +419,7 @@ async def play(_, message: Message):
                               invitelink = await _.export_chat_invite_link(chid)
                           except:
                               await lel.edit(
-                                  "<b>Add me as admin of yor group with whole permission except Send Anonymously option first</b>",
+                                  "<b>Add me as admin of yor group with whole permission except Send Anonymously option first and must check /help</b>",
                               )
                               return
 
@@ -566,7 +566,7 @@ async def deezer(client: Client, message_: Message):
                               invitelink = await client.export_chat_invite_link(chid)
                           except:
                               await lel.edit(
-                                  "<b>Add me as admin of yor group with whole permission except Send Anonymously option first</b>",
+                                  "<b>Add me as admin of yor group with whole permission except Send Anonymously option first and must check /help</b>",
                               )
                               return
 
@@ -695,7 +695,7 @@ async def jiosaavn(client: Client, message_: Message):
                               invitelink = await client.export_chat_invite_link(chid)
                           except:
                               await lel.edit(
-                                  "<b>Add me as admin of yor group with whole permission except Send Anonymously option first</b>",
+                                  "<b>Add me as admin of yor group with whole permission except Send Anonymously option first and must check /help</b>",
                               )
                               return
 
