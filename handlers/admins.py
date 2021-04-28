@@ -36,10 +36,10 @@ async def pause(_, message: Message):
     ) or (
             callsmusic.pytgcalls.active_calls[message.chat.id] == 'paused'
     ):
-        await message.reply_text("✯AuraXMusic✯=❗ Nothing is playing!")
+        await message.reply_text("✯W2HMusic✯=❗ Nothing is playing!")
     else:
         callsmusic.pytgcalls.pause_stream(message.chat.id)
-        await message.reply_text("✯AuraXMusic✯=▶️ Paused!")
+        await message.reply_text("✯W2HMusic✯=▶️ Paused!")
 
 
 @Client.on_message(command("resume") & other_filters)
@@ -51,10 +51,10 @@ async def resume(_, message: Message):
     ) or (
             callsmusic.pytgcalls.active_calls[message.chat.id] == 'playing'
     ):
-        await message.reply_text("✯AuraXMusic✯=❗ Nothing is paused!")
+        await message.reply_text("✯W2HMusic✯=❗ Nothing is paused!")
     else:
         callsmusic.pytgcalls.resume_stream(message.chat.id)
-        await message.reply_text("✯AuraXMusic✯=⏸ Resumed!")
+        await message.reply_text("✯W2HMusic✯=⏸ Resumed!")
 
 
 @Client.on_message(command("end") & other_filters)
@@ -62,7 +62,7 @@ async def resume(_, message: Message):
 @authorized_users_only
 async def stop(_, message: Message):
     if message.chat.id not in callsmusic.pytgcalls.active_calls:
-        await message.reply_text("✯AuraXMusic✯=❗ Nothing is streaming!")
+        await message.reply_text("✯W2HMusic✯=❗ Nothing is streaming!")
     else:
         try:
             callsmusic.queues.clear(message.chat.id)
@@ -70,7 +70,7 @@ async def stop(_, message: Message):
             pass
 
         callsmusic.pytgcalls.leave_group_call(message.chat.id)
-        await message.reply_text("✯AuraXMusic✯=❌ Stopped streaming!")
+        await message.reply_text("✯W2HMusic✯=❌ Stopped streaming!")
 
 
 @Client.on_message(command("skip") & other_filters)
@@ -79,7 +79,7 @@ async def stop(_, message: Message):
 async def skip(_, message: Message):
     global que
     if message.chat.id not in callsmusic.pytgcalls.active_calls:
-        await message.reply_text("✯AuraXMusic✯=❗ Nothing is playing to skip!")
+        await message.reply_text("✯W2HMusic✯=❗ Nothing is playing to skip!")
     else:
         callsmusic.queues.task_done(message.chat.id)
 
@@ -106,4 +106,4 @@ async def skip(_, message: Message):
 @errors
 async def admincache(client, message: Message):
     set(message.chat.id, [member.user for member in await message.chat.get_members(filter="administrators")])
-    #await message.reply_text("✯AuraXMusic✯=❇️ Admin cache refreshed!")
+    #await message.reply_text("✯W2HMusic✯=❇️ Admin cache refreshed!")

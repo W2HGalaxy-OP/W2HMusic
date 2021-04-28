@@ -1,5 +1,5 @@
-# AuraXMusic TELEGRAM VC MUSIC BOT 
-[![AuraXMusic logo](https://telegra.ph/file/d21963be67c93841589ee.jpg)](https://t.me/AuraXNetwork)
+# W2HMusic TELEGRAM VC MUSIC BOT 
+[![W2HMusic logo](https://telegra.ph/file/d21963be67c93841589ee.jpg)](https://t.me/W2HGalaxy-Op)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
@@ -7,29 +7,29 @@ Neither su music project , nor pytgcalls are stable
 
 
 <p align="center">
-<a href="https://app.codacy.com/gh/AuraXNetwork/AuraXMusic?utm_source=github.com&utm_medium=referral&utm_content=AuraXNetwork/AuraXMusic&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
+<a href="https://app.codacy.com/gh/W2HGalaxy-Op/W2HMusic?utm_source=github.com&utm_medium=referral&utm_content=W2HGalaxy-Op/W2HMusic&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
 <img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusic" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/AuraXNetwork/AuraXMusic" /> </a>
-<a href="http://hits.dwyl.com/AuraXNetwork/AuraXMusic" alt="HitCount"> <img src="http://hits.dwyl.com/AuraXNetwork/AuraXMusic.svg" /> </a>
+<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/W2HGalaxy-Op/W2HMusic" /> </a>
+<a href="http://hits.dwyl.com/W2HGalaxy-Op/W2HMusic" alt="HitCount"> <img src="http://hits.dwyl.com/W2HGalaxy-Op/W2HMusic.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/AuraXNetwork/AuraXMusic" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/AuraXNetwork/AuraXMusic?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusic" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/AuraXNetwork/AuraXMusic" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusic/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/AuraXNetwork/AuraXMusic?style=flat&logo=github" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusic/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/AuraXNetwork/AuraXMusic?label=Forks&logo=github" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusic" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/AuraXNetwork/AuraXMusic?color=success" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusic" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/AuraXNetwork/AuraXMusic?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/W2HGalaxy-Op/W2HMusic?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/W2HGalaxy-Op/W2HMusic" /> </a>
+<a href="https://github.com/W2HGalaxy-Op/W2HMusic/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/W2HGalaxy-Op/W2HMusic?style=flat&logo=github" /> </a>
+<a href="https://github.com/W2HGalaxy-Op/W2HMusic/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/W2HGalaxy-Op/W2HMusic?label=Forks&logo=github" /> </a>
+<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/W2HGalaxy-Op/W2HMusic?color=success" /> </a>
+<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/W2HGalaxy-Op/W2HMusic?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/AuraXNetwork/AuraXMusic" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/AuraXNetwork/AuraXMusic?include_prereleases?style=flat&logo=github" /> </a>
+<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/W2HGalaxy-Op/W2HMusic?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusic" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusic" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/AuraXNetwork/AuraXMusic" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusic/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/W2HGalaxy-Op/W2HMusic" /> </a>
+<a href="https://github.com/W2HGalaxy-Op/W2HMusic/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/AuraXMusicUpdates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://t.me/W2HMusicUpdates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/W2HGalaxy-Op/W2HMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
@@ -71,7 +71,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ## The easiest way to deploy this Bot
 ### HEROKU
-<a href="https://heroku.com/deploy?template=https://github.com/AuraXNetwork/AuraXMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a href="https://heroku.com/deploy?template=https://github.com/W2HGalaxy-Op/W2HMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### StringSession
 
@@ -114,12 +114,12 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 - Inline search is also supported.
 
-* Bot Link:  <a href="https://t.me/AuraXMusic" alt="AuraXMusic"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AuraXMusic-blue" /> </a>
-* News channel: <a  href="https://t.me/AuraXUpdates" alt="AuraXMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-AuraXMusic%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/W2HMusic" alt="W2HMusic"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-W2HMusic-blue" /> </a>
+* News channel: <a  href="https://t.me/AuraXUpdates" alt="W2HMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-W2HMusic%20Updates-9cf" /> </a>
 
 ## Support
-- [Channel](https://t.me/AuraXNetwork)
-- [Group](https://t.me/AuraXSupport)
+- [Channel](https://t.me/W2HGalaxy-Op)
+- [Group](https://t.me/W2HSupport)
 
 ## Credits
 - [DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic)
