@@ -566,7 +566,7 @@ async def deezer(client: Client, message_: Message):
                               invitelink = await client.export_chat_invite_link(chid)
                           except:
                               await lel.edit(
-                                  "<b>Add me as admin of yor group first</b>",
+                                  "<b>Add me as admin of yor group with whole permission except Send Anonymously option first</b>",
                               )
                               return
 
