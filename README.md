@@ -75,7 +75,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ### StringSession
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@itzgauravv/AuraXVCBot#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@GalaxyOp/W2HMusicBot#main.py) 
 
 
 ### Mandatory Vars.
