@@ -114,8 +114,8 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 - Inline search is also supported.
 
-* Bot Link:  <a href="https://t.me/W2HMusic" alt="W2HMusic"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-W2HMusic-blue" /> </a>
-* News channel: <a  href="https://t.me/AuraXUpdates" alt="W2HMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-W2HMusic%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/W2H_Music_1_BOT" alt="W2HMusic"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-W2HMusic-blue" /> </a>
+* News channel: <a  href="https://t.me/W2H_Userbot" alt="W2HMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-W2HMusic%20Updates-9cf" /> </a>
 
 ## Support
 - [Channel](https://t.me/W2HGalaxy-Op)
