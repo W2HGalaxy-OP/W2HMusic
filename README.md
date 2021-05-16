@@ -123,7 +123,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ## Credits
 - [DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic)
-- [Itzgauravv](https://github.com/itzgauravv)
+- [IisGaurav](https://github.com/IisGaurav):DEV
 - [hamker cat](https://github.com/thehamkercat/Telegram_VC_Bot)
 - [Roj](https://github.com/rojserbest)
 - [Marvin](https://github.com/BlackStoneReborn)
