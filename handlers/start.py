@@ -27,7 +27,7 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Add To Your Group⚡️", url="https://t.me/W2HMusicBot?startgroup=true"
+                        "Add To Your Group⚡️", url="https://t.me/W2H_Music_1_Bot?startgroup=true"
                     )
                 ]
             ]
