@@ -8,7 +8,7 @@ requests
 aiohttp
 aiofiles
 asyncio
-youtube_search
+youtube_search_python
 search_engine_parser
 ffmpeg
 Pillow
@@ -16,3 +16,5 @@ python-arq
 future
 psutil
 wget
+ujson
+ffmpeg-python
