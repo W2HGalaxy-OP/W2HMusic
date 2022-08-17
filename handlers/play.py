@@ -399,7 +399,7 @@ async def m_cb(b, cb):
 @Client.on_message(command("play") & other_filters)
 async def play(_, message: Message):
     global que
-    lel = await message.reply("🔄 **Processing Via ✯W2HMusic✯**")
+    lel = await message.reply("⚡")
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
 
@@ -547,7 +547,7 @@ async def play(_, message: Message):
 )
 async def deezer(client: Client, message_: Message):
     global que
-    lel = await message_.reply("🔄 **Processing Via ✯W2HMusic✯**")
+    lel = await message_.reply("⚡")
     administrators = await get_administrators(message_.chat)
     chid = message_.chat.id
     try:
@@ -599,7 +599,7 @@ async def deezer(client: Client, message_: Message):
     text = message_.text.split(" ", 1)
     queryy = text[1]
     res = lel
-    await res.edit(f"Searching 🔍🔎 for `{queryy}` on deezer")
+    await res.edit(f"⚡ for `{queryy}` on deezer")
     try:
         arq = ARQ("https://thearq.tech")
         r = await arq.deezer(query=queryy, limit=1)
@@ -676,7 +676,7 @@ async def deezer(client: Client, message_: Message):
 )
 async def jiosaavn(client: Client, message_: Message):
     global que
-    lel = await message_.reply("🔄 **Processing Via ✯W2HMusic✯=**")
+    lel = await message_.reply("⚡ **Processing Via ✯W2HMusic✯=**")
     administrators = await get_administrators(message_.chat)
     chid = message_.chat.id
     try:
